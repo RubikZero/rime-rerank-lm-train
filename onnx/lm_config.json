@@ -1,0 +1,15 @@
+{
+  "model": "mlm_ft_v2",
+  "vocab_size": 21128,
+  "hidden_size": 256,
+  "num_layers": 4,
+  "num_heads": 4,
+  "max_position": 512,
+  "mask_token_id": 103,
+  "cls_token_id": 101,
+  "sep_token_id": 102,
+  "pad_token_id": 0,
+  "unk_token_id": 100,
+  "opset": 17,
+  "exported": "2026-09-15 14:23:31"
+}
